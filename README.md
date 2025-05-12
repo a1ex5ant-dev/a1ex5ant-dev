@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Alex!
 
-<!--
-**a1ex5ant-dev/a1ex5ant-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning **Python** and focusing on **Data Analysis** using tools like Pandas, Jupyter, and Matplotlib.
 
-Here are some ideas to get you started:
+- 📚 CS Engineering Graduate
+- 🔐 I hold two certifications in Cybersecurity (theoretical)
+- 💻 Building my first data project: *Wine Quality Analysis*
+- 🌱 Currently exploring GitHub, Jupyter Notebooks & version control
+- 🚀 Looking for part-time, remote roles to grow in data & tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Goals
+- Build a solid portfolio with real data projects
+- Gain confidence in Python and data workflows
+- Transition into a remote, data-related role
+
+---
+
+Thanks for visiting my profile!
