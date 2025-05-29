@@ -1,6 +1,6 @@
 # 👨‍💻 a1ex5ant-dev
 
-🎯 Aspiring Cybersecurity Professional | IT Engineer with two certifications in theoretical cybersecurity  
+🎯 Aspiring Cybersecurity Professional | IT Engineer with three certifications in theoretical cybersecurity  
 📍 Currently learning hands-on skills and building my portfolio through GitHub projects  
 🌐 Open to remote and part-time opportunities in cybersecurity
 
@@ -17,6 +17,7 @@ I'm transitioning into the field of cybersecurity by:
 
 - ✔️ International Diploma in IT and Cybersecurity — Vellum
 - ✔️ Threat Management and Security Policies — National and Kapodistrian University of Athens
+- ✔️ IT Systems Security Technician - TUV Nord 
 
 ## 🚀 Coming Soon
 
