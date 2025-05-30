@@ -16,7 +16,7 @@ I'm transitioning into the field of cybersecurity by:
 ## 📚 Cybersecurity Certifications
 
 - ✔️ International Diploma in IT and Cybersecurity — Vellum
-- ✔️ Threat Management and Security Policies — National and Kapodistrian University of Athens
+- ✔️ IT and Cybersecurity: Threat Management and Security Policies — National and Kapodistrian University of Athens
 - ✔️ IT Systems Security Technician - TUV Nord 
 
 ## 🚀 Coming Soon
